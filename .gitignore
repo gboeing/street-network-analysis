@@ -1,3 +1,8 @@
+_old/*
+*.log
+urbanized-areas-usa/input_data/tl_2016_us_uac10/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
