@@ -1,6 +1,7 @@
 _old/*
 *.log
 urbanized-areas-usa/input_data/tl_2016_us_uac10/*
+cache
 
 
 # Byte-compiled / optimized / DLL files
